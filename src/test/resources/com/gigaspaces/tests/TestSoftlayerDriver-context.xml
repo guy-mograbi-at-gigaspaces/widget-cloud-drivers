@@ -1,0 +1,13 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+
+    <import resource="classpath:test-context.xml"/>
+    <!--<bean id="driver" class="com.gigaspaces.SoftlayerDriver">-->
+        <!--<property name="username" value="__username__"/>-->
+        <!--<property name="apiKey" value="__apiKey__"/>-->
+
+    <!--</bean>-->
+
+</beans>
